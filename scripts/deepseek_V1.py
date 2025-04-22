@@ -112,4 +112,4 @@ if not df_consolidado.empty:
     plt.show()
 
 else:
-    print("Nenhum dado disponível para análise.")\n# Nova atualização
+    print("Nenhum dado disponível para análise.")\n# Nova atualizaçã
